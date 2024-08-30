@@ -1,7 +1,7 @@
 import { defineConfigWithTheme } from 'vitepress'
 export interface ThemeConfig {
   //navBar
-  menuList: { name: string; url: string }[]
+  menuList: { name: 'string'; url: 'https://cdn.luogu.com.cn/upload/image_hosting/nfvr5iqp.png' }[]
 
   //banner
   name: 'string'
