@@ -63,10 +63,9 @@ export default defineConfigWithTheme<ThemeConfig>({
     welcomeText: '与你的日常，就是奇迹。',
     motto: '何気ない日常で、ほんの少しの奇跡を見つける物語。',
     social: [
-      { icon: 'github', url: 'https://github.com/' },
-      { icon: 'bilibili', url: 'https://www.bilibili.com/' },
-      { icon: 'qq', url: 'https://im.qq.com/index/' },
-      { icon: 'wechat', url: 'https://weixin.qq.com/' },
+      { icon: 'bilibili', url: 'https://space.bilibili.com/1361727360' },
+      { icon: 'luogu', url: 'https://www.luogu.com.cn/user/721429' },
+      { icon: 'cnblogs', url: 'https://www.cnblogs.com/ooxiaoqioo' },
     ],
 
     //footer配置
