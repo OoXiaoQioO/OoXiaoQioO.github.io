@@ -50,7 +50,7 @@ export default defineConfigWithTheme<ThemeConfig>({
   //   hostname: 'https://vitepress-theme-bluearchive.vercel.app',
   // },
   title: "OoXiao_QioO's BLOG",
-  description: "aaaaaaSensei's 部落格",
+  description: "OoXiao_QioO's BLOG",
   themeConfig: {
     // navBar
     menuList: [
@@ -70,7 +70,7 @@ export default defineConfigWithTheme<ThemeConfig>({
     ],
 
     //footer配置
-    footerName: 'Sensei',
+    footerName: 'OoXiao_QioO',
     poweredList: [
       { name: 'VitePress', url: 'https://github.com/vuejs/vitepress' },
       { name: 'GitHub Pages', url: 'https://docs.github.com/zh/pages' },
@@ -80,8 +80,8 @@ export default defineConfigWithTheme<ThemeConfig>({
     clientID: 'Ov23lia9U9wFN3WMyoKK',
     clientSecret: 'b2418ab598c188c43a247c99e728dd2735d58c3b',
     repo: 'vitepress-theme-bluearchive',
-    owner: 'Alittfre',
-    admin: ['Alittfre'],
+    owner: 'OoXiao_QioO',
+    admin: ['OoXiao_QioO'],
   },
   markdown: {
     theme: 'github-light',
