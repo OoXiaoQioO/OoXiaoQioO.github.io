@@ -4,9 +4,9 @@ export interface ThemeConfig {
   menuList: { name: string; url: string }[]
 
   //banner
-  name: string
-  welcomeText: string
-  motto: string
+  name: 'string'
+  welcomeText: 'string'
+  motto: 'string'
   social: { icon: string; url: string }[]
 
   //footer
