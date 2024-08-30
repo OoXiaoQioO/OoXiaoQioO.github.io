@@ -59,7 +59,7 @@ export default defineConfigWithTheme<ThemeConfig>({
     ],
 
     //banner区配置
-    name: "aaaaaSensei's 部落格",
+    name: "OoXiao_QioO",
     welcomeText: 'Hello, VitePress',
     motto: '何気ない日常で、ほんの少しの奇跡を見つける物語。',
     social: [
