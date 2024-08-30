@@ -60,7 +60,7 @@ export default defineConfigWithTheme<ThemeConfig>({
 
     //banner区配置
     name: "OoXiao_QioO",
-    welcomeText: 'Hello, VitePress',
+    welcomeText: '与你的日常，就是奇迹。',
     motto: '何気ない日常で、ほんの少しの奇跡を見つける物語。',
     social: [
       { icon: 'github', url: 'https://github.com/' },
