@@ -65,8 +65,8 @@ export default defineConfigWithTheme<ThemeConfig>({
   // sitemap: {
   //   hostname: 'https://vitepress-theme-bluearchive.vercel.app',
   // },
-  title: "Sensei's 部落格",
-  description: "Sensei's 部落格",
+  title: "OoXiao_QioO's Blog",
+  description: "OoXiao_QioO's Blog",
   themeConfig: {
     // navBar
     menuList: [
@@ -76,8 +76,8 @@ export default defineConfigWithTheme<ThemeConfig>({
 
     //banner区配置
     videoBanner: false,
-    name: "Sensei's 部落格",
-    welcomeText: 'Hello, VitePress',
+    name: "OoXiao_QioO's 部落格",
+    welcomeText: '跨越「梦」留下的足迹',
     motto: ['和你的日常，就是奇迹', '何気ない日常で、ほんの少しの奇跡を見つける物語。'],
     social: [
       { icon: 'github', url: 'https://github.com/' },
@@ -87,7 +87,7 @@ export default defineConfigWithTheme<ThemeConfig>({
     ],
 
     //footer配置
-    footerName: 'Sensei',
+    footerName: 'OoXiao_QioO',
     poweredList: [
       { name: 'VitePress', url: 'https://github.com/vuejs/vitepress' },
       { name: 'GitHub Pages', url: 'https://docs.github.com/zh/pages' },
