@@ -11,7 +11,7 @@ head:
       content: vitepress-theme-bluearchive 联合省选 2025 游记
 ---
 
-w我来打酱油啦！
+我来打酱油啦！
 
 ---
 
